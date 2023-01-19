@@ -1,14 +1,3 @@
-/* p5.js (https://p5js.org/)
- 
- Under Creative Commons License
- https://creativecommons.org/licenses/by-sa/4.0/
- Written by Juan Carlos Ponce Campuzano, 30-Jul-2020
- https://jcponce.github.io/
-
-*/  
-  
-// Updated 01-Jun-2022 
-
 let easycam;
 
 // Butterfly model
