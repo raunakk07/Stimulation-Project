@@ -1,6 +1,6 @@
 function backHome() {
   window.open(
-    'https://jcponce.github.io/strange-attractors/#lorenz'
+    ''
     //'_blank' // <- This is what makes it open in a new window.
   );
 }
