@@ -40,7 +40,7 @@ Randomize: randomCurve,
 
 
 function backAttractors () {
-    window.location.href = "https://jcponce.github.io/strange-attractors/#lorenz84";
+    window.location.href = "";
 }
 
 
