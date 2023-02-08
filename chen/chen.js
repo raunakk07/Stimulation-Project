@@ -44,7 +44,7 @@ Randomize: randomCurve,
 
 
 function backAttractors () {
-    window.location.href = "https://jcponce.github.io/strange-attractors/#chen";
+    window.location.href = "";
 }
 
 function setup() {
