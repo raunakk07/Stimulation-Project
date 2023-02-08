@@ -1,10 +1,3 @@
-/* p5.js (https://p5js.org/)
- * Under Creative Commons License
- * https://creativecommons.org/licenses/by-sa/4.0/
- * Written by Juan Carlos Ponce Campuzano, 19-Jul-2018
- */
-
-// Updated 01/Jun-2022
 
 let easycam;
 let particles = [];
@@ -13,7 +6,7 @@ let points = [];
 
 let attractor;
 
-let NUM_POINTS = 3500;//num of points in curve
+let NUM_POINTS = 3600;//num of points in curve
 
 let numMax = 600;
 let t = 0;
@@ -47,7 +40,7 @@ Randomize: randomCurve,
 
 
 function backAttractors () {
-    window.location.href = "https://jcponce.github.io/strange-attractors/#dadras";
+    window.location.href = "";
 }
 
 
