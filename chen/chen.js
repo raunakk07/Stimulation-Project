@@ -167,7 +167,7 @@ function draw(){
     perspective(60 * PI/180, width/height, 1, 5000);
     
     // BG
-    background(255);
+    background(0);
     
     rotateX(0.3);
     rotateY(-1);
